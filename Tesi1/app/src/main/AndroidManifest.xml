@@ -47,6 +47,8 @@
             android:name=".Locandine"
             android:label="@string/title_activity_maps">
         </activity>
+        <activity android:name=".InfoFilm"
+            android:label="Film"/>
     </application>
 
 </manifest>
